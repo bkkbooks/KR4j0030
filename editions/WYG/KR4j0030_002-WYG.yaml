@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4j0030/WYG/v1/juan/2
+seq: 2
+front:
+  text: 東浦詞原䟦韓温甫家於東浦因以名其詞雖與康順庵辛稼軒諸家酬唱其妍媸相去非亶苧蘿無塩也余去冬日事畚臿研田乆蕪托友人較讐諸詞集以行世入年讀之如兹集開巻水調歌頭為之掩鼻又且坐令其自度曲也押韻頗峭但寃家何處貪歡樂引得我心兒惡等語又未免俳笑矣古虞毛晉識
+  hash: sha256:8e2b21f643d39723c111bf9b469e75ec06ed31e8022d5073f0f42f9bf8aa699d
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4j0030_WYG_002-1a, image: WYG1487/WYG1487-0622c.png}
+body:
+  text: 東浦詞
+  hash: sha256:8c3bdb1e82366d6a3208638a81c665ab54e428108ccada893eabe51bd1a9f16c
+metadata:
+  title: 東浦詞
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:47:48.296070'
+  juan_title: 原跋
+  source:
+    repository: kanripo
+    path: KR4j0030/KR4j0030_002.txt
+hash: sha256:bf3b769896f5ffff291754ea41c0780a7273f4c184a401f3314cf2f1a0ac907b

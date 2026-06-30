@@ -1,0 +1,58 @@
+canonical_identifier: bkk:krp/KR4j0030/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR4j0030/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 東浦詞
+  date: '2015-08-25 00:47:48.296070'
+  source:
+    repository: kanripo
+    path: KR4j0030
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4j0030_000-WYG.yaml, hash: 'sha256:b72ddaba73fe4d4986649c949f41d718841d1bb70363c0e869376bdc7a386f14'}
+  - {seq: 1, filename: KR4j0030_001-WYG.yaml, hash: 'sha256:ff48a4e2548ab2ebfdc13923e79c06b54ed3d7048b77da1ca4a8199763e6a090'}
+  - {seq: 2, filename: KR4j0030_002-WYG.yaml, hash: 'sha256:bf3b769896f5ffff291754ea41c0780a7273f4c184a401f3314cf2f1a0ac907b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4j0030_000-WYG.markers.yaml, hash: 'sha256:cb945fb6fcaa0c590a7db3f880b0712886ca320c7b750ecbf8a4b9a6f5b31735'}
+  - {seq: 1, role: markers, filename: assets/KR4j0030_001-WYG.markers.yaml, hash: 'sha256:abba75987c627b88b6493709dbb844c0f5df3995617f97dcbf9866dbe6b1df52'}
+  - {seq: 2, role: markers, filename: assets/KR4j0030_002-WYG.markers.yaml, hash: 'sha256:9a9ca8b4765c5ae3a85242c5b49d9a1580579b9e5a941ec9b05962605cd24f9b'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4j0030_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 1081
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4j0030_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 2216
+  label: 東浦詞
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4j0030_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 3
+  label: 原跋
+  type: section
+  level: 1
+hash: sha256:fcaa08e9fe551e1399b416d5835276a3ec1c2987e8ff94a37d9c63772ee954f9

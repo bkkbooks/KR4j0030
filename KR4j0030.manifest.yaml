@@ -1,0 +1,64 @@
+canonical_identifier: bkk:krp/KR4j0030/v1
+canonical_location: https://kanripo.org/bkk/KR4j0030/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 東浦詞
+  date: '2015-08-25 00:47:48.296070'
+  source:
+    repository: kanripo
+    path: KR4j0030
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR4j0030_000.yaml, hash: 'sha256:8c87e4b7abed07722925a91326fd1f82fb8ed2db493ac3f36ffa9788433c9a90'}
+  - {seq: 1, filename: KR4j0030_001.yaml, hash: 'sha256:27e11fafa50c17b3bca01c0f1b112ca952092d25c8486358ba3473a466ab2ccc'}
+  - {seq: 2, filename: KR4j0030_002.yaml, hash: 'sha256:295bfba2c576718cab7b8af57ae77ee7e392c307dc658187a1c3eeaf2cc31721'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4j0030_000.markers.yaml, hash: 'sha256:9f7d48e899fe2e26a58067466a221b15319c135f562066313c59e0f11af9f153'}
+  - {seq: 1, role: markers, filename: assets/KR4j0030_001.markers.yaml, hash: 'sha256:aa318d66a041ee505adf7c05e35e270d468efa3063b1a1f73cd15d63b292e17d'}
+  - {seq: 2, role: markers, filename: assets/KR4j0030_002.markers.yaml, hash: 'sha256:fb115ad82d3dec1cbfebe515d85f5a739570117c7f8f2512f9333773d424b4af'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4j0030_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 1081
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4j0030_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 2216
+  label: 東浦詞
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4j0030_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 3
+  label: 原跋
+  type: section
+  level: 1
+hash: sha256:051aa035cc6bc994f0d9e430484771f08561acbe930db93bb9f1ff0211aec3a1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
