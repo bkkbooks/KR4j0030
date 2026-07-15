@@ -6,22 +6,27 @@ markers:
 
       ', id: KR4j0030_krp_002-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR4j0030_WYG_002-1a01}
+  - {type: substitution, offset: 4, original: 䟦, replacement: 跋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19443}}
   - {type: 'kr:newline', offset: 5, content: '
 
       ', id: KR4j0030_krp_002-bkkkrnewl2}
   - {type: line-break, offset: 5, content: '', id: KR4j0030_WYG_002-1a02}
+  - {type: substitution, offset: 6, original: 温, replacement: 溫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20795}}
   - {type: 'kr:newline', offset: 26, content: '
 
       ', id: KR4j0030_krp_002-bkkkrnewl3}
   - {type: line-break, offset: 26, content: '', id: KR4j0030_WYG_002-1a03}
+  - {type: substitution, offset: 39, original: 塩, replacement: 鹽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19509}}
   - {type: 'kr:newline', offset: 47, content: '
 
       ', id: KR4j0030_krp_002-bkkkrnewl4}
   - {type: line-break, offset: 47, content: '', id: KR4j0030_WYG_002-1a04}
+  - {type: substitution, offset: 50, original: 乆, replacement: 久, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19497}}
   - {type: 'kr:newline', offset: 68, content: '
 
       ', id: KR4j0030_krp_002-bkkkrnewl5}
   - {type: line-break, offset: 68, content: '', id: KR4j0030_WYG_002-1a05}
+  - {type: substitution, offset: 71, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20024}}
   - {type: 'kr:newline', offset: 89, content: '
 
       ', id: KR4j0030_krp_002-bkkkrnewl6}
@@ -84,4 +89,4 @@ markers:
 
       ', id: KR4j0030_krp_002-bkkkrnewl11}
   back: []
-hash: sha256:ffd4ee3a549f09b202b79ccdc6d20d1d0f46a45ea8550090b660882c41a4a28a
+hash: sha256:f32707b26f3da761cd05b1282ba2a2dff27a7fd5b36294ac6e37e2d6d53ac044

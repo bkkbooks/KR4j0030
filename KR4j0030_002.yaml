@@ -1,8 +1,8 @@
 canonical_identifier: bkk:krp/KR4j0030/krp/v1/juan/2
 seq: 2
 front:
-  text: 東浦詞原䟦韓温甫家於東浦因以名其詞雖與康順庵辛稼軒諸家酬唱其妍媸相去非亶苧蘿無塩也余去冬日事畚臿研田乆蕪托友人較讐諸詞集以行世入年讀之如兹集開巻水調歌頭為之掩鼻又且坐令其自度曲也押韻頗峭但寃家何處貪歡樂引得我心兒惡等語又未免俳笑矣古虞毛晉識
-  hash: sha256:8e2b21f643d39723c111bf9b469e75ec06ed31e8022d5073f0f42f9bf8aa699d
+  text: 東浦詞原跋韓溫甫家於東浦因以名其詞雖與康順庵辛稼軒諸家酬唱其妍媸相去非亶苧蘿無鹽也余去冬日事畚臿研田久蕪托友人較讐諸詞集以行世入年讀之如兹集開卷水調歌頭為之掩鼻又且坐令其自度曲也押韻頗峭但寃家何處貪歡樂引得我心兒惡等語又未免俳笑矣古虞毛晉識
+  hash: sha256:6ab1715a85b8d52348cf3fc7ac299066523232ad3cc349205314f5a13017e65c
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4j0030_WYG_002-1a, image: WYG1487/WYG1487-0622c.png}
 body:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4j0030/KR4j0030_002.txt
-hash: sha256:92ff6d34bb98d438e08d847395f0d8fe19be49290d2463b69b2c3775a1561ef1
+hash: sha256:295bfba2c576718cab7b8af57ae77ee7e392c307dc658187a1c3eeaf2cc31721
